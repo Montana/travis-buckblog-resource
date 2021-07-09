@@ -1,4 +1,4 @@
-targets = [ "//:neither" ]
+targets = [ "//:hello" ]
 
 [[dependency]]
 package = "github.com/buckaroo-pm/google-googletest"
